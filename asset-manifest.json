@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/terrence-portfolio-v2/static/css/main.db1b8ab7.css",
+    "main.js": "/terrence-portfolio-v2/static/js/main.5b29ddb1.js",
+    "static/media/screenshot-meal-and-drink.png": "/terrence-portfolio-v2/static/media/screenshot-meal-and-drink.a8a1fb38defa5a4195ce.png",
+    "static/media/Screenshot-weather-dashboard.png": "/terrence-portfolio-v2/static/media/Screenshot-weather-dashboard.fec12475633d0e2a79f0.png",
+    "static/media/simon-berger.jpg": "/terrence-portfolio-v2/static/media/simon-berger.5be16ea3b7012705d91d.jpg",
+    "static/media/work-day-scheduler-screenshot.png": "/terrence-portfolio-v2/static/media/work-day-scheduler-screenshot.648fc545b49f01ff4493.png",
+    "static/media/workout-tracker.png": "/terrence-portfolio-v2/static/media/workout-tracker.643f63ef609a3a4e3e57.png",
+    "static/media/Screenshot-reposte-comments.png": "/terrence-portfolio-v2/static/media/Screenshot-reposte-comments.a202c01e39e0035f60fc.png",
+    "static/media/Screenshot-note-taker.png": "/terrence-portfolio-v2/static/media/Screenshot-note-taker.4883aa7ed28a2ac24b2e.png",
+    "static/media/Profile_picture.jpg": "/terrence-portfolio-v2/static/media/Profile_picture.cb225d6889a85bd09dfc.jpg",
+    "index.html": "/terrence-portfolio-v2/index.html",
+    "main.db1b8ab7.css.map": "/terrence-portfolio-v2/static/css/main.db1b8ab7.css.map",
+    "main.5b29ddb1.js.map": "/terrence-portfolio-v2/static/js/main.5b29ddb1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db1b8ab7.css",
+    "static/js/main.5b29ddb1.js"
+  ]
+}
